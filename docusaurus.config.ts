@@ -130,6 +130,9 @@ const config: Config = {
       crossorigin: 'anonymous',
     },
   ],
+
+  plugins: [
+  ]
 };
 
 export default config;
