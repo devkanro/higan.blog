@@ -2,6 +2,8 @@
 title: iCost AI 记账指令
 ---
 
+# iCost AI 记账指令
+
 ### 试用版
 
 [![](https://img.shields.io/badge/🔗-获取指令（0228更新）-orange)](https://www.icloud.com/shortcuts/154358552d9044b9a1f6ef92f768cc9a)
